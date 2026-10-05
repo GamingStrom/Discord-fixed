@@ -1,0 +1,16 @@
+{
+  "name": "discord-everything-client",
+  "version": "2.0.1",
+  "description": "Client-ready Discord bot for Railway or Termux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3"
+  }
+}
